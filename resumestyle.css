@@ -1,0 +1,12 @@
+.container {
+    margin-top: 20px;
+    width: 1150px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(0, 255, 255, 0.39)
+}
+#image {
+     height: 100px;
+    width: 100px;
+    border-radius: 20%;
+}
